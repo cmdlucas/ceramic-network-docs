@@ -10,7 +10,7 @@ Streams are individual instances of state on the Ceramic network. Every stream i
 
 ### **Stream identifiers**
 
-Every stream is identified by its `streamID`, which is its unique address on the Ceramic network. When applications load a stream from the network using its streamID, its current state is returned. Alternative, applications can load a previous version of a stream's state by using the `commitID` of the specific version wanted.
+Every stream is identified by its `streamID`, which is its unique address on the Ceramic network. When applications load a stream from the network using its streamID, its current state is returned. Alternatively, applications can load a previous version of a stream's state by using the `commitID` of the specific version wanted.
 
 ### **Streamcode**
 
